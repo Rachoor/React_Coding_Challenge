@@ -1,0 +1,8 @@
+.padded {
+  background: #ececec;
+  padding: 200px;
+  .space-between {
+    display: flex;
+    justify-content: space-between;
+  }
+}
